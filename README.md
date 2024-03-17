@@ -6,7 +6,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.om/Sravanthi-Duddeti/Sales-Finance-Analytics/blob/main/Customer%20Net%20Sales%20Performance.pdf)_
+  **1.** Create a _[customer performance report](https://github.com/Sravanthi-Duddeti/Sales-Finance-Analytics/blob/main/Customer%20Net%20Sales%20Performance.pdf)_ 
 
     **2.** Conduct a comprehensive comparison between _[Market Performance vs Target](https://github.com/Sravanthi-Duddeti/Sales-Finance-Analytics/blob/main/P%26L%20statement%20by%20Month.pdf)_
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
