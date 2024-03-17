@@ -20,7 +20,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by __P&L statement by Fiscal year.pdf  &P&L statement by Month.pdf
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal year](https://github.com/Sravanthi-Duddeti/Sales-Finance-Analytics/blob/main/P%26L%20statement%20by%20Fiscal%20year.pdf)&[Month](https://github.com/Sravanthi-Duddeti/Sales-Finance-Analytics/blob/main/P%26L%20statement%20by%20Month.pdf)
 
    **2.** Create Profit and Loss (P&L) reports by _P&L statement by Month.pdf
 
