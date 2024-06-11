@@ -2,6 +2,8 @@
 # Sales Report & Finance Report for AtliQ Hardware
 
 ## Sales Report :
+![@reallygreatsite (2)](https://github.com/Sravanthi-Duddeti/Sales-Finance-Analytics/assets/128029018/936c1096-baa0-493b-8014-cf44be13f783)
+
 
 
 - **Project objective:** 
