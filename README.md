@@ -20,7 +20,6 @@
 
 
 ## Finance Report :
-![Uploading @reallygreatsite.png…]()
 
 - **Project objective:** 
 
