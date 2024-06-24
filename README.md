@@ -42,6 +42,10 @@
 - [x]	Proficiency in incorporating supplementary data into an existing data model.
 - [x]	Utilizing DAX to create calculated columns.
 
+
+Support
+Give a ⭐️ if you like this project!
+
 ## Soft Skills Gained:
 - [x]	Refined understanding of Sales & Finance Reports
 - [x]	Designing user-centric reports with empathy in mind.
