@@ -1,12 +1,12 @@
 # Sales-Finance-Analytics
 # Sales Report & Finance Report for AtliQ Hardware
 ![@reallygreatsite (2)](https://github.com/Sravanthi-Duddeti/Sales-Finance-Analytics/assets/128029018/936c1096-baa0-493b-8014-cf44be13f783)
-##**Customer Performance Report:**
+
 ![@reallygreatsite (1)](https://github.com/Sravanthi-Duddeti/Sales-Finance-Analytics/assets/128029018/d621aa65-c4f6-4df6-9781-1d0aff4cfc3c)
 
 
 
-
+## Customer Performance Report:
 - **Project objective:** 
 
   **1.** Create a _[customer performance report](https://github.com/Sravanthi-Duddeti/Sales-Finance-Analytics/blob/main/Customer%20Net%20Sales%20Performance.pdf)_ 
